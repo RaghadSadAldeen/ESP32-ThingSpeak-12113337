@@ -63,4 +63,4 @@ without signing in.
 
 ## Screenshots
 ![Public ThingSpeak charts](thingspeak-public.png)
-![Wokwi circuit](wokwi-circuit.png)
+![Wokwi circuit](wokwi-circuit..png)
