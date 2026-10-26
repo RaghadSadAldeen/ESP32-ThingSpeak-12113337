@@ -60,3 +60,7 @@ showed the change over time.
 
 The public channel was also opened in an InPrivate window
 without signing in.
+
+## Screenshots
+![Public ThingSpeak charts](thingspeak-public.png)
+![Wokwi circuit](wokwi-circuit.png)
